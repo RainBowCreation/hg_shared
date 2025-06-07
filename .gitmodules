@@ -1,0 +1,12 @@
+[submodule "hg_shared_core"]
+	path = core
+	url = https://github.com/RainBowCreation/hg_shared_core.git
+    branch = main
+[submodule "hg_shared_struct"]
+	path = struct
+	url = https://github.com/RainBowCreation/hg_shared_struct.git
+    branch = main
+[submodule "hg_shared_bindgen"]
+	path = bindgen
+	url = https://github.com/RainBowCreation/hg_shared_bindgen.git
+    branch = main
